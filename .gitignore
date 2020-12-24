@@ -1,0 +1,14 @@
+*.jpg
+*.png
+*.weights
+*.h5
+logs/
+train/
+test1/
+test/
+yolo.py
+README.md
+README.roboflow.txt
+.cfg
+.weights
+font/
